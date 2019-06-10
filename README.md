@@ -1,4 +1,5 @@
 # NodeJS-Sequelize
+!{Alt text}(nodejs.png)
 This is simple CRUD App using mysql+sequelize & NodeJS+Express<br>
 <br>
 <b>Step Installation :</b> <br>
